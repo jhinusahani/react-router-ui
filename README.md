@@ -3,7 +3,6 @@
 This project is a React-based frontend application focused on clean navigation, structured routing, and simple, user-friendly UI design.  
 The goal of this project was to practice real-world routing patterns and build pages that feel production-ready rather than experimental.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ The goal of this project was to practice real-world routing patterns and build p
 - Focus on layout stability and user experience
 - Organized folder structure for scalability
 
----
 
 ## Pages Overview
 
@@ -37,7 +35,6 @@ The goal of this project was to practice real-world routing patterns and build p
 - **404 Page**  
   Custom not-found page for invalid routes.
 
----
 
 ## Tech Stack
 
@@ -46,7 +43,6 @@ The goal of this project was to practice real-world routing patterns and build p
 - Tailwind CSS
 - Vite
 
----
 
 ## Project Structure
 
@@ -70,33 +66,5 @@ src/
 │
 │── App.jsx
 │── main.jsx
-
-
----
-
-## Getting Started
-
-Clone the repository and install dependencies:
-
-```bash
-npm install
-
-
----
-
-## ✅ Why this README works
-
-- Sounds **human-written**
-- Matches exactly what you built
-- No buzzwords, no fake claims
-- Resume + interview safe
-- Recruiter-friendly
-
-Agar chaho next:
-- README ko thoda aur short kar dein  
-- ya GitHub profile ke liye description line bana dein  
-- ya deployment section add karein  
-
-bolo, next kya chahiye.
 
 
